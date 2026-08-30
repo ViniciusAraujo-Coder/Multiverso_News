@@ -1,4 +1,8 @@
-# 🌌 Multiverso News
+# 🌌 Multiverso News - Gallifrey Times
+
+<p align="center">
+  <img src="assets/gif/doctorwho.gif" alt="Doctor Who" width="700">
+</p>
 
 O **Multiverso News** é um portal de notícias fictício inspirado no universo de **Doctor Who**.
 
