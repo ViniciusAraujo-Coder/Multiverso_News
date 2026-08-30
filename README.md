@@ -62,7 +62,7 @@ Este projeto faz parte do meu aprendizado em desenvolvimento web, com foco em:
 
 ## 🔗 Acesse o projeto
 
-👉 [Adicione aqui o link do GitHub Pages](https://viniciusaraujo-coder.github.io/Multiverso_News/)
+👉 https://viniciusaraujo-coder.github.io/Multiverso_News/
 
 ---
 
