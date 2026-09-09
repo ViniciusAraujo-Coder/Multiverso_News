@@ -37,7 +37,6 @@ img {
     display: block;
 }
 
-/* ===== TOPO ===== */
 
 .barra-topo{
     border-bottom: 1px solid var(--linha);
@@ -55,7 +54,7 @@ img {
     color: var(--azul);
 }
 
-/* ===== CABEÇALHO ===== */
+
 
 .cabecalho {
     text-align: center;
@@ -105,7 +104,7 @@ img {
     transform: scale(1.05);
 }
 
-/* ===== MANCHETE PRINCIPAL ===== */
+
 
 .manchete-principal {
     max-width: 900px;
@@ -170,7 +169,7 @@ img {
     color: white;
 }
 
-/* ===== SEÇÕES ===== */
+
 
 .titulo-secao {
     margin: 25px 0 25px;
@@ -226,7 +225,7 @@ img {
     text-decoration: none;
 }
 
-/* ===== ALERTA ===== */
+
 
 .alerta-temporal {
     display: flex;
@@ -244,7 +243,7 @@ img {
     color: var(--vermelho);
 }
 
-/* ===== MAIS NOTÍCIAS PASSANDO ===== */
+/*----------------------------*/
 
 .outras-noticias {
     overflow: hidden;
@@ -271,7 +270,6 @@ img {
     }
 }
 
-/* SOBRE */
 
 .sobre-site {
     margin-top: 70px;
@@ -295,9 +293,7 @@ footer {
     border-top: 1px solid var(--linha);
 }
 
-/* =========================================
-   PÁGINA DA NOTÍCIA
-   ========================================= */
+
 
 
 .layout-noticia {
@@ -307,7 +303,6 @@ footer {
     align-items: start;
 }
 
-/* Matéria */
 
 .noticia-completa {
     max-width: 750px;
@@ -348,7 +343,6 @@ footer {
     font: 700 27px var(--titulo);
 }
 
-/* CITAÇÃO */
 
 blockquote {
     margin: 35px 0;
@@ -365,7 +359,6 @@ blockquote span {
     font: 15px var(--mono)
 }
 
-/* Final Matéria */
 
 .fim-noticia {
     margin: 20px 0;
@@ -375,7 +368,6 @@ blockquote span {
     font: 11px var(--mono);
 }
 
-/* Barra lateral */
 
 .barra-lateral {
     display: flex;
