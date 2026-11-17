@@ -16,10 +16,6 @@ O site foi desenvolvido com o objetivo de praticar conhecimentos de desenvolvime
 
 A proposta foi criar um portal jornalístico inspirado em acontecimentos, criaturas e mistérios do universo de Doctor Who.
 
----
-
-## 📸 Prévia
-
 <p align="center">
   <img src="assets/screenshots/home.png" alt="Página inicial do Gallifrey Times" width="700">
 </p>
