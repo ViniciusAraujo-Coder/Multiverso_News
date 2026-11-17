@@ -18,6 +18,18 @@ A proposta foi criar um portal jornalístico inspirado em acontecimentos, criatu
 
 ---
 
+## 📸 Prévia
+
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="Página inicial do Gallifrey Times" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/noticia.png" alt="Página de notícia do Gallifrey Times" width="700">
+</p>
+
+---
+
 ## 🎨 Design e Estilo
 
 O layout mistura elementos de um portal de notícias tradicional com uma estética de ficção científica.
